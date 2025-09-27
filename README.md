@@ -62,9 +62,9 @@ This dashboard provides a **comprehensive financial overview** that enables bank
 
 ## 📂 Repository Contents
 
-* `Bank_Loan_Dashboard.xlsx` → Main dashboard file
-* `Loan_Data.xlsx` → Raw data used for analysis (if included)
-* `README.md` → Project documentation
+* `Bank Loan Application Data Analysis Project.xlsx` → Main dashboard file
+* `Dashboard.png` → Dashboard
+* `Data.xlsx` → Raw data used for analysis
 
 ---
 
